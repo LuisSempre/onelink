@@ -1,5 +1,5 @@
 <template>
-  <main class="p-4 bg-white h-full w-full space-y-8 pt-12 max-w-lg mx-auto">
+  <main class="p-4 bg-fuchsia-400 h-full w-full space-y-8 pt-12 max-w-lg mx-auto">
     <div class="text-center">
       <div
         v-if="acc.i"
